@@ -1,3 +1,4 @@
+import CookieModal from './components/cookieModal/CookieModal';
 import Navbar from './components/navbar/Navbar';
 import Home from './pages/home/Home';
 
@@ -8,6 +9,7 @@ const App = () => {
       <div className="content-container">
         <Home />
       </div>
+      <CookieModal />
     </div>
   );
 };
