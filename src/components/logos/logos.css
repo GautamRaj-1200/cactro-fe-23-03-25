@@ -1,0 +1,11 @@
+.logos {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-around;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.logo-item {
+  width: 100px;
+  height: 80px;
+}
