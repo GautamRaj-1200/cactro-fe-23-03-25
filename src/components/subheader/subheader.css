@@ -1,0 +1,16 @@
+.subheader {
+  display: flex;
+  background-color: rgb(55, 55, 177);
+  padding: 1rem 2rem;
+  border-radius: 6.25rem;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+  margin-top: 1rem;
+  font-size: 1.2rem;
+}
+.subheader__paragraph span {
+  font-weight: 500;
+}
